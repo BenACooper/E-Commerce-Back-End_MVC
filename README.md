@@ -18,7 +18,7 @@
     
   ## Usage
   Source ./db/schema.sql, then run ./seeds/index.js, then run server.js.
-  //Screenshot or Video here
+  [Demo Video](https://drive.google.com/file/d/1mAntjSHepsXqprUP6nSV4Yq2UXYoZU5p/view)
 
   ## License
   This project is licensed under the MIT License.
